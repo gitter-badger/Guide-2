@@ -1,9 +1,9 @@
 ---
-title: "Get Started (Old 3DS)"
+title: "Comenzar (Old 3DS)"
 permalink: /get-started-(old-3ds).html
 ---
 
-Click the image of your device region to take you to the appropriate page.
+Cliquea la imagen de la region de tu dispositivo para ir a la pagina apropiada.
 {: .notice--primary}
 
 | EUR | JPN | KOR | USA |
