@@ -5,10 +5,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Get Started"
+  cta_label: "EMPEZAR"
   cta_url: "/get-started"
   caption:
-excerpt: 'A complete guide to 3DS custom firmware, <br /> from stock to arm9loaderhax.<br />'
+excerpt: 'Una guia completa para Custom Firmwares de 3DS, <br /> de stock a arm9loaderhax.<br />'
 ---
 
 **This guide needs *your* help to seed [these](https://github.com/Plailect/Guide/archive/master.zip) ([rss](https://plailect.github.io/Guide/rss.xml)) torrents!**
