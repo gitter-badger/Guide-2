@@ -8,7 +8,7 @@ header:
   cta_label: "EMPEZAR"
   cta_url: "/get-started"
   caption:
-excerpt: 'Una guia completa para Custom Firmwares de 3DS, <br /> de stock a arm9loaderhax.<br />'
+excerpt: 'Una guia completa para Custom Firmwares de 3DS, <br /> desde stock a arm9loaderhax.<br />'
 ---
 
 **This guide needs *your* help to seed [these](https://github.com/Plailect/Guide/archive/master.zip) ([rss](https://plailect.github.io/Guide/rss.xml)) torrents!**
