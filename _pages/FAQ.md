@@ -4,7 +4,7 @@ permalink: /faq.html
 ---
 
 <a name="faq_latestfw" />**Q:** *Estoy en la ultima actualizacion del sistema, ¿Es mi dispositivo hackeable?*    
-**A:** i, Pero solo por [Haciendole downgrade a su NFIRM](nfirm-downgrade) (Mirar [Esto](https://www.reddit.com/r/3dshacks/comments/4iry4s/)).
+**A:** Si, Pero solo por [Haciendole downgrade a su NFIRM](nfirm-downgrade) (Mirar [Esto](https://www.reddit.com/r/3dshacks/comments/4iry4s/)).
 
 <a name="faq_updatecfw" />**Q:** *¿Como actualizo Luma3DS?*    
 **A:** Usa Luma3DS Updater
