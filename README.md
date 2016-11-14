@@ -1,1 +1,1 @@
-### See https://plailect.github.io/Guide/
+Traduccion de guia para hackear 3ds
