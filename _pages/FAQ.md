@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Preguntas Frecuentes"
 permalink: /faq.html
 ---
 
