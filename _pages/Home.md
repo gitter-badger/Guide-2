@@ -11,7 +11,7 @@ header:
 excerpt: 'Una guia completa para Custom Firmwares de 3DS, <br /> desde stock a arm9loaderhax.<br />'
 ---
 
-**Esta guia necesita *tu* ayuda para ser seeder de [esto] (https://github.com/Plailect/Guide/archive/master.zip) ([rss](https://plailect.github.io/Guide/rss.xml)) torrents!**
+**Esta guia necesita *tu* ayuda para ser seeder de [estos](https://github.com/Plailect/Guide/archive/master.zip) ([rss](https://plailect.github.io/Guide/rss.xml)) torrents!**
 {: .notice--info}
 
 **Para poder usar estos archivos [torrent](https://en.wikipedia.org/wiki/Torrent_file) en esta guia, necesitaras un cliente de torrent como: [Transmission](https://sourceforge.net/projects/trqtw/files/latest/download)**
