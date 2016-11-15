@@ -14,7 +14,7 @@ excerpt: 'Una guia completa para Custom Firmwares de 3DS, <br /> desde stock a a
 **Esta guia necesita *tu* ayuda para ser seeder de [estos](https://github.com/Plailect/Guide/archive/master.zip) ([rss](https://plailect.github.io/Guide/rss.xml)) torrents!**
 {: .notice--info}
 
-**Para poder usar estos archivos [torrent](https://en.wikipedia.org/wiki/Torrent_file) en esta guia, necesitaras un cliente de torrent como: [Transmission](https://sourceforge.net/projects/trqtw/files/latest/download)**
+**Para poder usar los archivos [torrent](https://en.wikipedia.org/wiki/Torrent_file) en esta guia, necesitaras un cliente de torrent como: [Transmission](https://sourceforge.net/projects/trqtw/files/latest/download)**
 {: .notice--info}
 
 **LEE TODAS LAS INSTRUCCIONES ANTES DE COMENZAR EL PROCESO.**
@@ -42,19 +42,19 @@ Los beneficios de arm9loaderhax sobre otros launchers de CFW son numerosos, y es
 
 ## ¿Que puedo hacer con un Custom Firmware?
 
-+ Play all game cards and eShop games, regardless of region
-+ Customize your HOME Menu with user-created [themes](https://3dsthem.es/) and [badges](https://badges.3dsthem.es/)
-+ Use "ROM hacks" for games that you own
-+ Take gameplay and application screenshots
-+ [Backup, edit, and restore](https://gbatemp.net/threads/release-jks-savemanager-homebrew-cia-save-manager.413143/) saves for many games
-+ Play games for older systems with various emulators, using RetroArch or other standalone emulators. (Works best with a New Nintendo 3DS)
-+ Install homebrew titles to your system, and have them appear on your HOME Menu
-+ Dump your game cards to a format you can install, and play them without needing the card
-+ New 3DS only: stream live gameplay to your PC wirelessly with NTR CFW
-+ Run many old Nintendo DS flash carts that were blocked long ago or never worked on Nintendo 3DS
-+ Safely update to the latest system version without fear of losing access to homebrew
++ Jugar todos los juegos de cartuchos y la eshop, sin importar la region
++ Costumizar tu menu HOME con [temas](https://3dsthem.es/) creados por usuarios y [badges](https://badges.3dsthem.es/)
++ Usar "hack ROMS" para juegos que tengas
++ Tomar gameplays y capturas de pantalla de aplicaciones
++ [Respaldar, editar, y restaurar](https://gbatemp.net/threads/release-jks-savemanager-homebrew-cia-save-manager.413143/) partidas guardadas de muchos juegos
++ Jugar juegos de sistemas antiguos, Usando RetroArch y otros emuladores independientes. (Funcionan mejor en New Nintendo 3DS)
++ Instalar titles de homebrew a tu sistema, y hacer que aparezcan en tu menu HOME
++ Dumpear tus cartuchos de juego a un formato que puedas instalar, y juegalos sin necesidad de cartucho
++ Solo para New 3DS: Haz stream de juegos en vivo a tu PC inalambricamente con NTR CFW
++ Corre muchas flash carts de Nintendo DS que tienen tiempo bloqueadas o que nunca funcionaron en Nintendo 3DS
++ Actualiza con seguridad a la ultima version del sistema sin miedo a perder acceso al homebrew
 
-## What do I need to know before starting?
+## ¿Que necesito saber antes de empezar?
 
 + **Before beginning the guide, you must know the risks of 3DS hacking: EVERY time you modify your system, there is always the potential for an UNRECOVERABLE brick. They're rare, but still a possibility so make sure you follow ALL directions EXACTLY.**
 + If you have already hacked your 3DS before to get an EmuNAND setup, and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, you should follow all instructions and restore your existing EmuNAND when prompted once you reach [Installing arm9loaderhax](installing-arm9loaderhax).
