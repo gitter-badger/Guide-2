@@ -40,7 +40,7 @@ Arm9loaderhax es el nuevo y mejor metodo para ejecutar Custom Firware que te per
 
 Los beneficios de arm9loaderhax sobre otros launchers de CFW son numerosos, y es sumamente recomendado sobre otras guias que utilizan software desactualizados (Como son menuhax o rxTools). 
 
-## What can I do with Custom Firmware?
+## ¿Que puedo hacer con un Custom Firmware?
 
 + Play all game cards and eShop games, regardless of region
 + Customize your HOME Menu with user-created [themes](https://3dsthem.es/) and [badges](https://badges.3dsthem.es/)
