@@ -20,4 +20,4 @@ Antes de empezar,  puede que desee comprobar si su tarjeta SD posee errores usan
 
 | New 3DS | Old 3DS o 2DS |
 |:-:|:-:|
-| [![New 3DS](images/new3ds.png)](get-started-(new-3ds)) <br><br> [![New 3DS XL](images/new3dsxl.png)](get-started-(new-3ds)) | [![Old 3DS](images/old3ds.png)](get-started-(old-3ds)) &nbsp;&nbsp; [![Old 3DS XL](images/old3dsxl.png)](get-started-(old-3ds)) <br><br> [![2DS](images/2ds.png)](get-started-(old-3ds)) |
+| [![New 3DS](images/new3ds.png)](get-started-(new-3ds)) <br><br> [![New 3DS XL](images/new3dsxl.png)](get-started-(new-3ds)) | [![Old 3DS](images/old3ds.png)](get-started-(old-3ds)) &nbsp;&nbsp; [![Old 3DS XL](images/old3dsxl.png)](get-started-(old-3ds)) <br><br> [![2DS](images/2ds.png)](get-started-(old-3ds)) | 
