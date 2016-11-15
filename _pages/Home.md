@@ -56,12 +56,12 @@ Los beneficios de arm9loaderhax sobre otros launchers de CFW son numerosos, y es
 
 ## ¿Que necesito saber antes de empezar?
 
-+ **Before beginning the guide, you must know the risks of 3DS hacking: EVERY time you modify your system, there is always the potential for an UNRECOVERABLE brick. They're rare, but still a possibility so make sure you follow ALL directions EXACTLY.**
-+ If you have already hacked your 3DS before to get an EmuNAND setup, and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, you should follow all instructions and restore your existing EmuNAND when prompted once you reach [Installing arm9loaderhax](installing-arm9loaderhax).
-+ This guide will work on New 3DS, Old 3DS, and 2DS in all regions on firmware 11.2.0 or below *(except CHN / TWN on both New 3DS and Old 3DS, and KOR New 3DS)*.
-+ If everything goes according to plan, you will lose no data and end up with everything that you started with (games, NNID, saves, etc will be preserved).
-+ A large part of this guide is lengthy NAND dumps and downgrades, so the entire process can take *several* hours thanks to the 3DS's slow processor.
-+ **Keep the device plugged in and charged throughout the entire process to avoid data loss or damage from an unexpected power-off!**
-+ Your SD card should be [MBR, not GPT](http://www.howtogeek.com/245610/) (the SD card that comes with the device will be MBR by default).
-+ If you need to format a brand new SD card, you can use [`guiformat`](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) and set to an Allocation Unit Size of 32K.
-+ The 2DS is essentially identical to the Old 3DS in terms of software, and that any steps which say "Old 3DS" also apply to 2DS.
++ **Antes de comenzar esta guia, usted debe saber que esta bajo su propio riezgo hackear el 3DS: SIEMPRE que se modifique tu sistema, hay un potencial de que llegue a un brick IRRECUPERABLE. Estas son raras, pero siempre existe la posiblidad, por eso trata de seguir siempre TODOS LOS PASOS EXACTAMENTE COMO EN LA GUIA**
++ Si usted tiene su 3DS hackeado con una configuracion de EmuNand, y usted desea mover todo su contenido de su Emunand hacia su nuevo SysNand CFW, usted debe seguir todas las instrucciones y recuperar su EmuNand cuando se le solicite que llegue a [Instalando arm9loaderhax](installing-arm9loaderhax).
++ Esta guia funcionara en New 3DS, Old 3DS, y en 2DS en todas las regiones con firmware 11.2.0 o menor *(exceptuando CHN / TWN en New 3DS y Old 3DS, y KOR New 3DS)*.
++ Si todo sigue acorde al plan, usted no perdera ningun dato y al final terminaras con todo con lo que comenzaste la guia (Juegos, NNID, guardados de partidas, etc seran preservados).
++ Una gran parte de esta guia tiene grandes dumpeos de NAND y downgrades, por esto el proceso puede tomar *muchisimas horas* gracias a el lento procesador de la 3DS.
++ **¡Mantenga siempre conectado y cargando durante todo el proceso para evitar la perdida de datos por algun posible apagado!**
++ Su tarjeta SD debe ser [MBR, no GPT](http://www.howtogeek.com/245610/) (La tarjeta SD que viene con el dispositivo viene como MRB por defecto).
++ Si necesita fomatear alguna nueva tarjeta SD, puede usar [`guiformat`](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) y configurar el tamaño de la unidad asignada a 32K.
++ La 2DS es esencialmente identica a la Old 3DS en terminos de software, por eso cada paso que diga "OLD 3DS" tambien aplica para la 2DS.
