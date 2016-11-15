@@ -3,19 +3,19 @@ title: "NAND Size"
 permalink: /nand-size.html
 ---
 
-A valid NAND backup should be one of the following sizes in most situations.
+Un backup valido de la Nand debe tener estos tamaños en la mayoria de las situaciones.
 {: .notice--primary}
 
-Occasionally, you will get a backup with a different size than one of these listed. It is fine for a backup to be larger than expected, just ensure that it is never *smaller* than the sizes listed.
+En algunas ocaciones, usted podria conseguir un backup con un tamaño diferente al enlistado aqui. Esta bien que el backup tenga un tamaño mayor al esperado, pero es seguro que nunca debe ser *menor* a los que estan listados aqui.
 {: .notice--info}
 
-Note that a *min size* NAND will always be the smallest possible size for the purpose of saving space, and may not match the size of other NAND backups from your device. This is fine, just make sure that it matches one of the sizes on this page.
+Note que el *tamaño minimo* siempre va a ser el menor posible para el proposito de guardar espacio, y no siempre coincidira con el tamaño de otros backups de la NAND de tu dispositivo. Esto es correcto, solo debe estar seguro de que sea igual a algunos de los tamaños que se encuentran en esta pagina.
 {: .notice--info}
 
-The brand name refers to the manufacturer of the NAND chip in your device, **not** your SD card.
+El nombre de la marca se refiere al manofactor de la memoria NAND de tu dispositivo **NO** de tu tarjeta SD.
 {: .notice--warning}
 
-**Your backup should match one of the sizes on this page; if it does not, you should delete it and make a new one!**
+**Tu backup debe coincidir con alguno de los tamaños enlistados en esta pagina; si no es asi, ¡borrelo y cree uno nuevo!**
 {: .notice--danger}
 
 ## 2DS:    
