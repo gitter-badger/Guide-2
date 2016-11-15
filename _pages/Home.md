@@ -43,7 +43,7 @@ Los beneficios de arm9loaderhax sobre otros launchers de CFW son numerosos, y es
 ## ¿Que puedo hacer con un Custom Firmware?
 
 + Jugar todos los juegos de cartuchos y la eshop, sin importar la region
-+ Costumizar tu menu HOME con [temas](https://3dsthem.es/) creados por usuarios y [badges](https://badges.3dsthem.es/)
++ Personalizar tu menu HOME con [temas](https://3dsthem.es/) creados por usuarios y [badges](https://badges.3dsthem.es/)
 + Usar "hack ROMS" para juegos que tengas
 + Tomar gameplays y capturas de pantalla de aplicaciones
 + [Respaldar, editar, y restaurar](https://gbatemp.net/threads/release-jks-savemanager-homebrew-cia-save-manager.413143/) partidas guardadas de muchos juegos
