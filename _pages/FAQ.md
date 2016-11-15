@@ -52,4 +52,4 @@ permalink: /faq.html
 **A:** Todo lo que necesitas es la habilidad de poner archivos en la SD!
 
 <a name="faq_problem" />**Q:** *AYUDA! algo malo paso y ahora no puedo bootear...*    
-**A:** Por favor mira en [Guia de troubleshooting ](troubleshooting).
+**A:** Por favor mira en [Guia de troubleshooting ](troubleshooting). 
