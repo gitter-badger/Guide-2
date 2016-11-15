@@ -11,35 +11,34 @@ header:
 excerpt: 'Una guia completa para Custom Firmwares de 3DS, <br /> desde stock a arm9loaderhax.<br />'
 ---
 
-**This guide needs *your* help to seed [these](https://github.com/Plailect/Guide/archive/master.zip) ([rss](https://plailect.github.io/Guide/rss.xml)) torrents!**
+**Esta guia necesita *tu* ayuda para ser seeder de [esto] (https://github.com/Plailect/Guide/archive/master.zip) ([rss](https://plailect.github.io/Guide/rss.xml)) torrents!**
 {: .notice--info}
 
-**To use the [torrent](https://en.wikipedia.org/wiki/Torrent_file) files in this guide, you will need a torrent client like [Transmission](https://sourceforge.net/projects/trqtw/files/latest/download)**
+**Para poder usar estos archivos [torrent](https://en.wikipedia.org/wiki/Torrent_file) en esta guia, necesitaras un cliente de torrent como: [Transmission](https://sourceforge.net/projects/trqtw/files/latest/download)**
 {: .notice--info}
 
-**Read all of the introductory pages before proceeding.**
+**LEE TODAS LAS INSTRUCCIONES ANTES DE COMENZAR EL PROCESO.**
 {: .notice--warning}
 
-## What is Homebrew?
+## ¿Que es Homebrew?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) usually refers to software that is not authorized by Nintendo. It allows you to run homebrew games, tools like save editing and backup, and emulators for various older systems.
+[**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) Usualmente se refiere a software que no es autorizado por Nintendo. Esto te permite ejecutar juegos homebrew, herramientas como editores de archivos de guardado, y emuladores de antiguos sistemas.
 
-In most cases, running homebrew on your console is 100% free using just the Internet Browser. There are also various other exploits in commercial games to get homebrew running.
+En la mayoria de los casos, correr homebrew en tu consola es 100% gratuito usando justamente un navegador de internet. Hay varios exploids ("fallos de seguridad") en juegos comerciales para lograr correr homebrew. 
 
-## What is Custom Firmware?
+## ¿Que es un Custom Firmware?
 
-**Custom Firmware** ("CFW") enables you to use more advanced hacks that userland homebrew can't easily do. For instance, signature patches let you install unsigned titles that appear right on your HOME Menu.
+**Custom Firmware** ("CFW", en español: "Firmware customizado") te permite usar tecnicas mas avanzadas de hackeo que los homebrew comunes no pueden realizar facilmente. Por ejemplo, parches significativos que te permiten instalar titulos sin firmar que aparecen justo en tu menu HOME.
 
-CFW can be easily set up on any console that is on 9.2.0-20 or lower. Other versions can be downgraded, most for free or with just an exploit game.
+CFW puede ser configurada facilmente en cualquier consola que este en 9.2.0-20 o menor. Otras versiones pueden ser downgradeadas, la mayoria gratis o con un juego que tenga un exploit. 
 
-## What does this guide install?
+## ¿Que es lo que instala esta guia?
 
-This guide has the end goal of taking a completely unmodified 3DS from stock
-firmware to arm9loaderhax powered Custom Firmware. On some versions, it utilizes homebrew as a jumping off point, but Custom Firmware is still the goal.
+Esta guia tiene el objetivo de tomar un 3DS sin modificar con el firmware de fabrica, y ponerle arm9loaderhax optimizado con un Custom Firmware. En otras versiones, se utiliza en homebrew como punto de salto, pero el Custom Firmware sigue siendo el objetivo.
 
-Arm9loaderhax is the newest and best method of launching Custom Firmware that gives us nearly full control of the system only milliseconds into boot, which is similar to the effect of BootMii for the Wii.
+Arm9loaderhax es el nuevo y mejor metodo para ejecutar Custom Firware que te permita un acceso casi total a tu sistema con solo milisegundos de booteo, similar a el efecto del BootMii para la Wii.
 
-The benefits of arm9loaderhax over other Custom Firmware launch methods are numerous, and as such it is recommended to use this guide over any other that relies on outdated software (such as menuhax or rxTools).
+Los beneficios de arm9loaderhax sobre otros launchers de CFW son numerosos, y es sumamente recomendado sobre otras guias que utilizan software desactualizados (Como son menuhax o rxTools). 
 
 ## What can I do with Custom Firmware?
 
