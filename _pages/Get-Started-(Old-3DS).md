@@ -9,3 +9,4 @@ Cliquea la imagen de la region de tu dispositivo para ir a la pagina apropiada.
 | EUR | JPN | KOR | USA |
 |:-:|:-:|:-:|:-:|
 | [![EUR](images/eu.png)](get-started-(old-3ds-eur)) | [![JPN](images/jp.png)](get-started-(old-3ds-jpn)) | [![KOR](images/kr.png)](get-started-(old-3ds-kor)) | [![USA](images/us.png)](get-started-(old-3ds-usa)) |
+ 
